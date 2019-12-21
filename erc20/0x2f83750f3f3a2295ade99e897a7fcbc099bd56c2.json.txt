@@ -1,0 +1,20 @@
+{
+"symbol":"AICT",
+"address":"0x2f83750f3f3a2295ade99e897a7fcbc099bd56c2",
+"overview":{
+"en":"Artificial Intelligencl Chain",
+"zh":"一个基于人工智能的下一代价值互联网"
+},
+"email":"info@aict.one",
+"website":"https://www.aict.one/",
+"whitepaper":"https://www.aict.one/aic-whitepaper-zh.pdf",
+"state":"NORMAL",
+"published_on":"2019-07-08",
+"initial_price":{
+"ETH":"0.00083333 ETH"
+},
+"links":{
+"twitter":"https://twitter.com/Aict_one",
+"telegram":"https://telegram.me/aic_official",
+}
+}
